@@ -1,0 +1,14 @@
+body{
+    
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+#navbar{
+    background-color: #356fc5;
+    padding: 20px;
+    font-size: Noto Sans, sans-serif;
+}
+
